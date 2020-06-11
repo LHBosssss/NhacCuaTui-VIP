@@ -1,0 +1,10 @@
+Package: com.hoduyluong.nhaccutuivip
+Name: NhacCuaTuiVip
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ho Duy Luong
+Author: Ho Duy Luong
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 104
